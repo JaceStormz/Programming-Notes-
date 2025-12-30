@@ -1,0 +1,5 @@
+This document explains what the list of files in this Python document represent . Each document represents a lesson covered in my steps in learning python if organized by date when created it should help in reviewing old lessons covered.
+
+ML NumPy file is my pre understanding of python's ML/DL/AI language before understanding of basics of Python. but its is important note because my use of Jupyter notebook and its IDE. I was rather fascinated by this IDE but wish to learn python properly made invest time learning from Harvard's CIS 50 in the Python's full course per my curious toward proper programming practices and the language and it syntax and functions.
+
+These are my attempts of learning the language and creating notes through examples. I intended to save these documents in the cloud in a GitHub account that i own and also growing such beautiful code and sharing platform that i have been ignorant about. I wasn't to use these files as starting point of account.

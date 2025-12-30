@@ -1,0 +1,6 @@
+<script>
+  const user = localStorage.getItem("username");
+  if (user) {
+    document.querySelector("main").innerHTML += `<h3>Welcome back, ${user}!</h3>`;
+  }
+</script>

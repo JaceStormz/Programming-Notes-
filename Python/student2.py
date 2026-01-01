@@ -20,4 +20,5 @@ def get(cls):
 
 if __name__ == "__main__":
     main()
+# inhertance borrow methods attributes.
 # you can instantiate an object by call cls without creating a new function

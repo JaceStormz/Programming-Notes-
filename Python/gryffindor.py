@@ -2,7 +2,7 @@ students = ["hermione", "Harry", "Ron"]
 
 for i, student in enumerate(students):
     print(i+1, student)
-# generators 
+
 # enumerate iterating of over value and its index
 # dictionary comprehension
 # filter but a functions that returns true or false or boolean question

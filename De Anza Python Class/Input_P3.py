@@ -16,6 +16,7 @@ print ("which equals = %.2f" %weightKg, end=' ')                # end=' ' preven
 print ("kilograms ")
 
 '''
+PS C:\\Users\\super\\OneDrive\\Desktop\\Repo_Files\\De Anza Python Class> Input_P3
 Please enter Your Name: Gautam Rao
 Please enter Your weight in lbs: 207.5
 Please enter your age (whole number): 37

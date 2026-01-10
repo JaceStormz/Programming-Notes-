@@ -27,6 +27,7 @@ print ("on the same line")
 
 
 '''
+PS C:\\Users\\super\\OneDrive\\Desktop\\Repo_Files\\De Anza Python Class> python output_P1.py
 Hello World!
 Hello World!
 he

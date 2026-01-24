@@ -4,13 +4,16 @@
 # Python 3.13.9
 # Program that computes the tuition in ten years and displays a table of the years and tuition costs.
 
+# variable definied
 tuition = 10000
 rate = 0.05
 year = 1
 
+# print template
 print("Year    Tuition")
 print("----------------")
 
+# condition execution and output
 while year <= 10:
     tuition = tuition + (tuition * rate)
     print(year, "   $", round(tuition, 2))

@@ -4,12 +4,14 @@
 # Python 3.13.9
 # Program that display a conversion table, with kilograms on the left and pounds on the right. 
 
-
+# variable
 kg = 1
 
+# print template
 print("Kilograms    Pounds")
 print("--------------------")
 
+# conditional and output
 while kg <= 199:
     pounds = round(kg * 2.2, 1)
     print(f"{kg:<12}{pounds}")

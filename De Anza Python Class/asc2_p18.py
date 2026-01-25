@@ -4,19 +4,20 @@
 # Python 3.13.9
 # Program that displays the characters in the ASCII character table from ! to ~. 
 
-# ASCII value for '!'
+# ASCII value for '!' this is the startinf value hard coded
 ascii_value = 33   
 count = 0
 
-# ASCII value for '~'
+# ASCII value for '~' or 126
 while ascii_value <= 126:  
+    # prints from ! to ~ with a space in the middle setting the ascii to char to print
     print(chr(ascii_value), end=" ") 
     count += 1
-
+    # limits each row to ten chars but iterates through if less than that or zero
     if count == 10:
         print()
         count = 0
-
+    
     ascii_value += 1
 
 

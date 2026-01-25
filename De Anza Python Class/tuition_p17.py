@@ -9,27 +9,29 @@ tuition = 10000
 rate = 0.05
 year = 1
 
-# print template
+# print template for header
 print("Year    Tuition")
 print("----------------")
 
-# condition execution and output
+# to check if year is less than and equal to ten to execute
 while year <= 10:
+    # calculate tuition plus yearly interest rate
     tuition = tuition + (tuition * rate)
-    print(year, "   $", round(tuition, 2))
+    # output of year total tuition with .2f is round to 2 decimal points and output 
+    print(f"{year:<4} $ {tuition:.2f}")
     year += 1
 
 '''
-PS C:\\Users\\super\\OneDrive\\Desktop\\Repo_Files\\De Anza Python Class> python tuition_p17.py                                                                                                
+PS C:\\Users\\super\\OneDrive\\Desktop\\Repo_Files\\De Anza Python Class> python tuition_p17.py                                     
 Year    Tuition
 ----------------
-1    $ 10500.0
-2    $ 11025.0
+1    $ 10500.00
+2    $ 11025.00
 3    $ 11576.25
 4    $ 12155.06
 5    $ 12762.82
 6    $ 13400.96
-7    $ 14071.0
+7    $ 14071.00
 8    $ 14774.55
 9    $ 15513.28
 10   $ 16288.95

@@ -4,17 +4,20 @@
 # Python 3.13.9
 # Program that display a conversion table, with kilograms on the left and pounds on the right. 
 
-# variable
+# variable hard coding the starting value
 kg = 1
 
-# print template
+# print template for header
 print("Kilograms    Pounds")
 print("--------------------")
 
-# conditional and output
+# to check to see if kilo won't surpass 199 kg while interating through the loop
 while kg <= 199:
+    # coverting kilos to pound and using the rounding function to round by 1 decimal point
     pounds = round(kg * 2.2, 1)
+    # printing kilos and pounds using a format string to print the values 
     print(f"{kg:<12}{pounds}")
+    # iterages through all the odd values in kilos
     kg += 2
 '''
 PS C:\\Users\\super\\OneDrive\\Desktop\\Repo_Files\\De Anza Python Class> python convertKilotoLb_p16.py

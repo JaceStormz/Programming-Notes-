@@ -17,7 +17,6 @@ while kg <= 199:
     pounds = round(kg * 2.2, 1)
     # printing kilos and pounds using a format string to print the values 
     print(f"{kg:<12}{pounds}")
-    # iterages through all the odd values in kilos
     kg += 2
 '''
 PS C:\\Users\\super\\OneDrive\\Desktop\\Repo_Files\\De Anza Python Class> python convertKilotoLb_p16.py

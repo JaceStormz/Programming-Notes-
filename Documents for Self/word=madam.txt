@@ -1,0 +1,3 @@
+word="madam"
+a=word==word[::-1]
+print("palindrome :",a)

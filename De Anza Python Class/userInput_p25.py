@@ -2,7 +2,7 @@
 # Gautam Rao
 # 2/04/26
 # Python 3.13.9
-
+# A program that asks the user to input a sentence
 
 # user input for the sentence and letter to be counted. Upper case for the upper method
 sentence = input("Enter a sentence: ").upper()

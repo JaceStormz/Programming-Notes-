@@ -66,6 +66,8 @@ for num in numList:
 
 print(f"Numbers divisible by 2: {count_even}")
 
+# G) Copy/paste the Output of your program as a multiline comment at the bottom of your program .
+
 '''
 PS C:\\Users\\super\\OneDrive\\Desktop\\Repo_Files\\De Anza Python Class> python examProject_Final.py
 Unsorted List: [24, 28, 27, 21, 23, 26, 29, 21, 23, 30]

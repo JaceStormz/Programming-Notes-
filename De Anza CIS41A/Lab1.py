@@ -71,8 +71,8 @@ print(f"You have taken {previousNumberClasses} programming class(es) before CIS 
 print("\nYOUR GOAL FOR CIS 41A:")
 print(goalUpper)
 
-'''
-PS C:\Users\super\OneDrive\Desktop\Repo_Files\De Anza CIS41A> python lab1.py                                                                                                                         
+"""
+PS C:\\Users\\super\\OneDrive\\Desktop\\Repo_Files\\De Anza CIS41A> python lab1.py                                                                                                                         
 Enter your name: Gautam Rao
 Enter number of previous programming classes: 3
 Enter your goal for CIS 41A: Practicing Pythonic Coding     
@@ -88,4 +88,4 @@ You have taken 3 programming class(es) before CIS 41A.
 YOUR GOAL FOR CIS 41A:
 PRACTICING PYTHONIC CODING 
 
-'''
+"""

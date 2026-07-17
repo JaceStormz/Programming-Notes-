@@ -1,5 +1,4 @@
 # asc2_p18.py
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # Program that displays the characters in the ASCII character table from ! to ~. 

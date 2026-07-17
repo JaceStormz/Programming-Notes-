@@ -1,5 +1,4 @@
 # ui.py
-# Gautam Rao
 # 06/20/2026
 # Python 3.13.9
 from lab6 import Ranking

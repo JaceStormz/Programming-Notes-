@@ -1,5 +1,4 @@
 # Nisbool_p31.py 
-# Gautam Rao
 # 2//14/26
 # Python 3.13.9
 # Write a function that has an integer N as parameter and returns true if N is even.

@@ -1,5 +1,4 @@
 # radius_P7.py 
-# Gautam Rao
 # 1//15/26
 # Python 3.13.9
 # Program that takes radius input from user then calculates the circumference and area of a circle

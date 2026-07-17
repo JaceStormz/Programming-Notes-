@@ -1,5 +1,4 @@
 # createC_P4.py
-# Gautam Rao
 # 1//10/26
 # Python 3.13.9
 # Description: asking for a character input from keyboard the output is a large block letter of "C" mode of that character

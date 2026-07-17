@@ -1,5 +1,4 @@
 # isTriangle_p33.py 
-# Gautam Rao
 # 2//14/26
 # Python 3.13.9
 # Write a function named isTriangle(a,b,c) that has three sides a,b,c  as parameters.

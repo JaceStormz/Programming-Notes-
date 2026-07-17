@@ -1,5 +1,4 @@
 # userInput_p25.py
-# Gautam Rao
 # 2/04/26
 # Python 3.13.9
 # A program that asks the user to input a sentence

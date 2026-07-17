@@ -1,5 +1,4 @@
 # sumPosNeg_p15.py 
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # Sum of Numbers Program

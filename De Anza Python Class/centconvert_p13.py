@@ -1,5 +1,4 @@
 # centconvert_p13.py 
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # Write a program to convert any given number of total cents

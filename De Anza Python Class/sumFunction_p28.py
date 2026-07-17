@@ -1,5 +1,4 @@
 # sumFunction_p28.py 
-# Gautam Rao
 # 2//14/26
 # Python 3.13.9
 # write a programm that takes the sum of two numbers in a function

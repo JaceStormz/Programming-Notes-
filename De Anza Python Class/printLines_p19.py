@@ -1,5 +1,4 @@
 # printLines_p19.py
-# Gautam Rao
 # 1//24/26
 # Python 3.13.9
 '''

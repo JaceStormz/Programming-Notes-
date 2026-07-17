@@ -1,5 +1,4 @@
 # Lab6.py
-# Gautam Rao
 # 06/20/2026
 # Python 3.13.9
 """

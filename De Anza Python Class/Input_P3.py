@@ -1,5 +1,4 @@
 # Input_P3.py
-# Gautam Rao
 # 1//06/26
 # Python 3.13.9
 # Description: Program to take input in Python

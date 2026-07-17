@@ -1,5 +1,5 @@
 # absoluteFunction_p29.py 
-# Gautam Rao
+
 # 2//14/26
 # Python 3.13.9
 # a program that calculates Absolute value with out using the Python function

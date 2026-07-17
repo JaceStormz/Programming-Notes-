@@ -1,5 +1,4 @@
 # zodiacComp_p14.py 
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # Write a program that asks the user for day and month of a birthday. 

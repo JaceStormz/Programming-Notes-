@@ -1,5 +1,4 @@
 # Week_4_Discussion.py
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # Program which print in loop as many times as the current hour.

@@ -1,5 +1,4 @@
 # p9.py 
-# Gautam Rao
 # 1//15/26
 # Python 3.13.9
 # program will convert the feet and inches into total_inches, and then print a message.

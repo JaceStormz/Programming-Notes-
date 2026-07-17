@@ -1,5 +1,4 @@
 # pracMath_p23.py
-# Gautam Rao
 # 2/04/26
 # Python 3.13.9
 # Program to let a child practice arithmetic skills.

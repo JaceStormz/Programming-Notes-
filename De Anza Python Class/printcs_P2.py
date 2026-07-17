@@ -1,5 +1,4 @@
 # printcs_P2.py
-# Gautam Rao
 # 1/10/26
 # Python 3.13.9
 # Description: Using print statements Print *** as borders stating that CS in large block text and then a messasge saying "Computer Science is Cool Stuff!!" at the bottom.

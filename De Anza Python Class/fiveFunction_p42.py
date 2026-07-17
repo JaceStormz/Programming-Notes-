@@ -1,5 +1,4 @@
 # fiveFunction_p42.py 
-# Gautam Rao
 # 2/21/26
 # Python 3.13.9
 # write five functions such as sum() average() min() max()

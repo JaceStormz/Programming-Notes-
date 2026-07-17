@@ -1,5 +1,4 @@
 # groceries_p52.py 
-# Gautam Rao
 # 3/20/26
 # Python 3.13.9
 

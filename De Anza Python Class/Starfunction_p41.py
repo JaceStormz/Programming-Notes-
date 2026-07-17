@@ -1,5 +1,4 @@
 # Starfunction_p41.py 
-# Gautam Rao
 # 2/21/26
 # Python 3.13.9
 # Write a function which outputs as many crosses as the parameter 'numCrosses' indicates.

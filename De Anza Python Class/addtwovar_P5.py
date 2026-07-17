@@ -1,5 +1,4 @@
 # addtwovar_P5.py
-# Gautam Rao
 # 1//10/26
 # Python 3.13.9
 # Description: Ask two whole numbers from user num1 and num2. Then add and multiply them. Provide output of both the sum and product to user.

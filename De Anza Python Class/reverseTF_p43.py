@@ -1,5 +1,4 @@
 # reverseTF_p43.py 
-# Gautam Rao
 # 2/21/26
 # Python 3.13.9
 '''

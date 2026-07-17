@@ -1,5 +1,4 @@
 # Twofunction.py 
-# Gautam Rao
 # 2/21/26
 # Python 3.13.9
 # A program two function definitions, and call each function appropriately in order to test and show how each function works

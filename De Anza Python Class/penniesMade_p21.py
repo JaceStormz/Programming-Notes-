@@ -1,5 +1,4 @@
 # sumPosNeg_p15.py 
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # Write a program which calculates exactly how much more (or less) you can make with the penny on day 30

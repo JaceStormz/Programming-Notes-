@@ -1,5 +1,4 @@
 # split_p38.py 
-# Gautam Rao
 # 2/21/26
 # Python 3.13.9
 # a program that asks the user to enter a sentence

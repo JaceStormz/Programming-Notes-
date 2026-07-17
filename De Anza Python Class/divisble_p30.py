@@ -1,5 +1,4 @@
-# divisble_p30.py 
-# Gautam Rao
+# divisble_p30.py
 # 2//14/26
 # Python 3.13.9
 # a program where a function returns True if N is evenly divisible by M, and False otherwise.

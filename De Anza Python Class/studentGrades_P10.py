@@ -1,5 +1,4 @@
 # p10.py 
-# Gautam Rao
 # 1//15/26
 # Python 3.13.9
 # Program which asks the user for a student's grade as a percent, and then returns their letter grade.

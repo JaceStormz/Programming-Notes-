@@ -1,5 +1,4 @@
 # p8.py 
-# Gautam Rao
 # 1//15/26
 # Python 3.13.9
 # Program to print a multiplication table for float values  0.1, 0.2 and 0.3.

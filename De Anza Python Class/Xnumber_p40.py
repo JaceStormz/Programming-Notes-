@@ -1,5 +1,4 @@
 # Xnumber_p40.py 
-# Gautam Rao
 # 2/21/26
 # Python 3.13.9
 # Ask the user to enter X numbers into a list. Calculate and show the sum, average, min, max of those numbers.

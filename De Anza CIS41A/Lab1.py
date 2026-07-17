@@ -1,5 +1,5 @@
 # Lab1.py
-# Gautam Rao
+
 # 04/13/2026
 # Python 3.13.9
 '''

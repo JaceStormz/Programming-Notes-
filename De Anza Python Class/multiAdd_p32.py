@@ -1,5 +1,4 @@
 # multiAdd_p32.py 
-# Gautam Rao
 # 2//14/26
 # Python 3.13.9
 # Write a function multAdd(a,b,c)  that Returns a*b+c.

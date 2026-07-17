@@ -1,5 +1,4 @@
 # Lab4.py
-# Gautam Rao
 # 05/17/2026
 # Python 3.13.9
 '''

@@ -1,5 +1,4 @@
 # ciphar_p56.py 
-# Gautam Rao
 # 3/14/26
 # Python 3.13.9
 ''' 

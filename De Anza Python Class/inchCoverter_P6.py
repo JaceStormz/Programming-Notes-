@@ -1,5 +1,4 @@
 # inchCoverter_P6.py 
-# Gautam Rao
 # 1//15/26
 # Python 3.13.9
 # Program to convert height from feet and inches to inches only

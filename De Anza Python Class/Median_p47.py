@@ -1,5 +1,4 @@
 # Median_p47.py 
-# Gautam Rao
 # 3/07/26
 # Python 3.13.9
 '''

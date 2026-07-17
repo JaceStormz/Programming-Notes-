@@ -1,5 +1,4 @@
 # debug.py 
-# Gautam Rao
 # 2/28/26
 # Python 3.13.9
 # debug program provided by the instuctor and modified to match the output required for the project

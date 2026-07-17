@@ -1,5 +1,4 @@
 # diceGame_p22.py
-# Gautam Rao
 # 2/04/26
 # Python 3.13.9
 # Dice Game program that generates two random dice values between 1 and 6 for you, and 2 for the computer.

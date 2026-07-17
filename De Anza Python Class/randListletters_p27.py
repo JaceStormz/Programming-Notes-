@@ -1,5 +1,4 @@
 # randListletters_p27.py
-# Gautam Rao
 # 2/04/26
 # Python 3.13.9
 # A program that generates a random list of letters.

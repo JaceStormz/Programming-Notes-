@@ -1,5 +1,4 @@
 # p11.py 
-# Gautam Rao
 # 1//15/26
 # Python 3.13.9
 # program to simulate rock-paper-scissors game.

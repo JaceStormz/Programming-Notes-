@@ -1,5 +1,4 @@
 # vote_p12.py 
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # This program checks checks if the user can vote.

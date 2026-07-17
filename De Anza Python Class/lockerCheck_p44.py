@@ -1,5 +1,4 @@
 # lockerCheck_p44.py 
-# Gautam Rao
 # 2/21/26
 # Python 3.13.9
 # Write a program to determine which exact locker numbers are open, and total number that are open.

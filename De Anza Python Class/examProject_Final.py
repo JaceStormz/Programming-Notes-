@@ -1,5 +1,4 @@
-# examProject_Final.py 
-# Gautam Rao
+# examProject_Final.py
 # 3/21/26
 # Python 3.13.9
 '''

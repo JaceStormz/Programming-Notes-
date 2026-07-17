@@ -1,5 +1,4 @@
 # output_P1.py
-# Gautam Rao
 # 1/06/26
 # Python 3.13.9
 # Description: Program show's output in Python

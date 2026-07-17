@@ -1,5 +1,4 @@
 #convertKilotoLb_p16.py
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # Program that display a conversion table, with kilograms on the left and pounds on the right. 

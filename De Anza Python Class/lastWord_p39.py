@@ -1,5 +1,4 @@
 # lastWord_p39.py 
-# Gautam Rao
 # 2/21/26
 # Python 3.13.9
 # Ask the user to enter their own word, and count how many times their word appears in the sentence

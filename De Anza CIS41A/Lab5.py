@@ -1,5 +1,4 @@
 # Lab5.py
-# Gautam Rao
 # 05/26/2026
 # Python 3.13.9
 '''

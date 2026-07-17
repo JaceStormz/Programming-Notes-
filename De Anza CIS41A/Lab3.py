@@ -1,5 +1,4 @@
 # Lab3.py
-# Gautam Rao
 # 05/07/2026
 # Python 3.13.9
 # Program to read country population data and allow user lookups

@@ -1,5 +1,4 @@
 # tuition_p17.py
-# Gautam Rao
 # 1//23/26
 # Python 3.13.9
 # Program that computes the tuition in ten years and displays a table of the years and tuition costs.

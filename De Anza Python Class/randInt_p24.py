@@ -1,5 +1,4 @@
 # randInt_p24.py
-# Gautam Rao
 # 2/04/26
 # Python 3.13.9
 # Program that generates X random integers Num.

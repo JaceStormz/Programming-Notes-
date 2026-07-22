@@ -25,5 +25,7 @@ sun
 y = "apples, bananas, blueberries, oranges"
 print(f"I eat {x} and {y} daily") """
 #output: I eat carrots, green beens, chik peas, potatoes and apples, bananas, blueberries, oranges daily
+#########################
 s = "maine 200 bananas khaye"
 print( s.replace("200","10").replace("bananas", "samosas"))
+#output: maine 10 samosas khaye

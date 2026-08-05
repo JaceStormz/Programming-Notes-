@@ -24,7 +24,7 @@ print(total)
 print(check)
 print(expenses) """
 ########################################
-heros=['spider man','thor','hulk','iron man','captain america']
+heros = ['spider man','thor','hulk','iron man','captain america']
 heros.insert(3, 'black panther')
 heros[1:3] = ['dr. strange']
 heros.sort()

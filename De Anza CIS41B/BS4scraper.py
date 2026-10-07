@@ -113,8 +113,8 @@ class BS4Scraper:
     def GetColumn(self, key):
         return list(self._table_data.get(key, []))
 '''
-Locates and reads Planets.html, creates a BS4Scraper using HTML, organized the table into headers and data.
-Prints the headers and prints each header with it column data
+Locates and reads Planets.html, creates a BS4Scraper using HTML, organizes the table into headers and data.
+Prints the headers and prints each header with its column data
 '''
 
 if __name__ == "__main__":

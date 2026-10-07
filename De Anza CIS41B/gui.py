@@ -14,7 +14,7 @@ Source:
 """
 
 # (Tkinter.py lines 10-14)
-# Added pathlib.Path to locate Planets.html relative to gui.py and added the
+# Added pathlib.Path to locate Planets.html relative to gui.py.
 
 import tkinter as tk
 from tkinter import ttk, scrolledtext
@@ -48,7 +48,7 @@ class TableGUI(ttk.Frame):
         self._display_table()
         self.pack(expand=True, fill="both")
 
-    
+
     def _display_table(self):
         """Format the scraped columns into readable rows and display them."""
 
@@ -60,7 +60,7 @@ class TableGUI(ttk.Frame):
         # of column lists. Convert those columns back into display rows.
         columns = [self._data.get(header, []) for header in self._headers]
         row_count = max((len(column) for column in columns), default=0)
-
+        # reconstructs rows from column-based data.
         rows = []
         for row_index in range(row_count):
             row = []
@@ -75,7 +75,7 @@ class TableGUI(ttk.Frame):
             values = [str(row[index]) for row in rows]
             width = max([len(str(header))] + [len(value) for value in values])
             widths.append(width)
-
+        # Formats the table header for display.
         header_line = " | ".join(
             str(header).ljust(width)
             for header, width in zip(self._headers, widths)
@@ -83,7 +83,7 @@ class TableGUI(ttk.Frame):
         separator = "-+-".join("-" * width for width in widths)
 
         output = [header_line, separator]
-
+        # Formats every row so that its columns align with the previously calculated column widths.
         for row in rows:
             output.append(
                 " | ".join(
@@ -93,6 +93,7 @@ class TableGUI(ttk.Frame):
             )
 
         # (Tkinter.py line 157)
+        # Display the completed table in the Tkinter text box and then make the text box read-only.
         self.text_box.insert(tk.END, "\n".join(output))
         self.text_box.configure(state="disabled")
 # (Tkinter.py lines 425-435)
@@ -100,7 +101,7 @@ class TableGUI(ttk.Frame):
 # The scraper reads Planets.html then ParseTable() returns headers and data. 
 # Passes headers and data into TableGUI.
 if __name__ == "__main__":
-    # Uses Planets.html 
+    
     html_path = Path(__file__).with_name("Planets.html")
     html = html_path.read_text(encoding="utf-8")
 
@@ -108,8 +109,7 @@ if __name__ == "__main__":
     scraper = BS4Scraper(html)
     headers, data = scraper.ParseTable()
 
-    # The main script creates the GUI, passes in the scraped result,
-    # and starts the Tkinter main loop.
+    # The main script creates the GUI, passes in the scraped result, and starts the Tkinter main loop.
     root = tk.Tk()
     TableGUI(root, headers, data)
     root.mainloop()

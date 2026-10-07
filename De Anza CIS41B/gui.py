@@ -9,8 +9,8 @@ Purpose:
     Display the table extracted by BS4Scraper in a Tkinter GUI.
 
 Source:
-    Tkinter.py was used as the starting point for the GUI structure.
-    BS4scraper.py supplies the scraped table data.
+    Tkinter.py was used.
+    BS4scraper.py was used for the scraped table data.
 """
 
 # (Tkinter.py lines 10-14)
@@ -33,6 +33,7 @@ class TableGUI(ttk.Frame):
         super().__init__(master)
 
         # (Tkinter.py lines 30-36)
+        # The first sets its title, and the second sets its initial width and height.
         master.title("Scraped Planets Table")
         master.geometry("1100x750")
 
